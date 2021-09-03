@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: my_github
-      path: Kayri/jfrog-pipelines-simple-example
+      path: Kayri/jfrog-quickstart-repo-example
       branches:
         include: master
   - name: myBuildInfo
